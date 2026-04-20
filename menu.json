@@ -1,0 +1,130 @@
+{
+    "goods": [
+        {
+            "name": "Chocolate Chip Cookie",
+            "category": "cookies",
+            "price": "$1.50",
+            "contains": ["eggs"],
+            "img": "https://images.unsplash.com/photo-1639678114484-fc09b70cad42?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Kitchen Sink Cookie",
+            "category": "cookies",
+            "price": "$1.50",
+            "contains": ["soy", "dairy"],
+            "img": "https://www.simplyrecipes.com/thmb/4waR8J7ix4cudCctIi6bz_MSQtc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Kitchen-Sink-Cookies-LEAD-8-22971c5a6ce944f7b0f192798ab788b4.jpg"
+        },
+        {
+            "name": "Snickerdoodle Cookie",
+            "category": "cookies",
+            "price": "$1.50",
+            "contains": ["dairy"],
+            "img": "https://wellnessmama.com/wp-content/uploads/snickerdoodle-recipe-1024x683.jpg"
+        },
+        {
+            "name": "Double Chocolate Cookie",
+            "category": "cookies",
+            "price": "$1.50",
+            "contains": ["eggs"],
+            "img": "https://preppykitchen.com/wp-content/uploads/2021/08/Double-Chocolate-Chip-Cookies-Blog-1-1140x1330.jpg"
+        },
+        {
+            "name": "Peanut Butter Cookie",
+            "category": "cookies",
+            "price": "$1.50",
+            "contains": ["peanuts"],
+            "img": "https://crayonsandcravings.com/wp-content/uploads/2022/04/Old-fashioned-peanut-butter-cookies-1-1024x1536.jpg"
+        },
+        {
+            "name": "Frosted Sugar Cookie",
+            "category": "cookies",
+            "price": "$1.50",
+            "contains": ["soy"],
+            "img": "https://butternutbakeryblog.com/wp-content/uploads/2019/03/frosted-sugar-cookie.jpg"
+        },
+        {
+            "name": "Croissant",
+            "category": "bread",
+            "price": "$2.00",
+            "contains": ["eggs"],
+            "img": "https://images.unsplash.com/photo-1623334044303-241021148842?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3JvaXNzYW50fGVufDB8fDB8fHww"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "category": "bread",
+            "price": "$3.50",
+            "contains": ["soy", "dairy", "eggs"],
+            "img": "https://images.unsplash.com/photo-1593872571314-4a735d4b27b0?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2lubmFtb24lMjByb2xsfGVufDB8fDB8fHww"
+        },
+        {
+            "name": "Scone",
+            "category": "bread",
+            "price": "$2.00",
+            "contains": ["soy", "dairy", "eggs"],
+            "img": "https://images.unsplash.com/photo-1611337848619-0a468832fcea?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2NvbmVzfGVufDB8fDB8fHww"
+        },
+        {
+            "name": "Banana Bread",
+            "category": "bread",
+            "price": "$2.50",
+            "contains": [],
+            "img": "https://images.squarespace-cdn.com/content/v1/57824c1dff7c501754f21743/1590164672768-7QJ7WHB44ONXBSDJO3CM/jeff-siepman-MssPSnkV1yM-unsplash.jpg?format=1000w"
+        },
+        {
+            "name": "Bagel",
+            "category": "bread",
+            "price": "$2.50",
+            "contains": ["soy", "sesame"],
+            "img": "https://iambaker.net/wp-content/uploads/2020/04/plain-bagel-3-1200x800.jpg"
+        },
+        {
+            "name": "Sourdough",
+            "category": "bread",
+            "price": "$3.00",
+            "contains": [],
+            "img": "https://myincrediblerecipes.com/wp-content/uploads/2025/07/Homemade-Sourdough-Bread.jpg"
+        },
+        {
+            "name": "Black Forest Cake Slice",
+            "category": "cake",
+            "price": "$5.00",
+            "contains": ["soy", "eggs"],
+            "img": "https://thescranline.com/wp-content/uploads/2023/06/BLACK-FOREST-CAKE-WEB-07-1152x1536.jpg"
+        },
+        {
+            "name": "Red Velvet Cake Slice",
+            "category": "cake",
+            "price": "$5.00",
+            "contains": ["soy", "eggs"],
+            "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnI-Mdds2Xha-TbD43SM96DbqJRNh3ld6ldvQccd5tZysex2pb"
+        },
+        {
+            "name": "Chocolate Cake Slice",
+            "category": "cake",
+            "price": "$5.00",
+            "contains": ["soy"],
+            "img": "https://sallysbakingaddiction.com/wp-content/uploads/2013/04/triple-chocolate-cake-4-1024x1536.jpg"
+        },
+        {
+            "name": "Tiramisu Cake Slice",
+            "category": "cake",
+            "price": "$5.00",
+            "contains": ["dairy", "eggs", "soy"],
+            "img": "https://carveyourcraving.com/wp-content/uploads/2021/01/homemade-tiramisu-without-eggs-1024x1044.jpg"
+        },
+        {
+            "name": "Lemon Cake Slice",
+            "category": "cake",
+            "price": "$5.00",
+            "contains": ["eggs"],
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNp9-NcF_oXbOyNIwwMQNYrBfSyLAa3h_aA&s"
+        },
+        {
+            "name": "Strawberry Cake Slice",
+            "category": "cake",
+            "price": "$5.00",
+            "contains": ["eggs"],
+            "img": "https://www.foodandwine.com/thmb/IX2eJUAPTUCStuxZTs9VHCM4U8E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/country-cake-with-strawberries-and-whipped-cream-FT-RECIPE0624-98e07c86d82747d6a7ed5b7eca130157.jpg"
+        }
+    ]
+}
